@@ -36,4 +36,4 @@ jobs:
           password: ${{ secrets.REMOTE_PASS }}
           port: 22
           source: "my/"
-          target: /usr/local
+          target: /usr/local/my
